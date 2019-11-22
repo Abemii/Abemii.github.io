@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Reading: YOWO"
+date: 2019-11-22
+comments: true
+categories: reading
+---
+
 # You Only Watch Once: A Unified CNN Architecture for Real-Time Spatiotemporal Action Localization
 Köpüklü O Wei X Rigoll G 
 
